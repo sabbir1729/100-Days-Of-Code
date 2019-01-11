@@ -1,5 +1,5 @@
-# 100-Days-Of-ML-Code 🔥
-A day to day plan for this challenge. Covers both theoritical and practical aspects machine-learning.
+# 100-Days-Of-Code 🔥
+A day to day plan for this challenge. I will mainly focus on covers both theoretical and practical aspects machine-learning.  
 
 ### Contents
 
