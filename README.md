@@ -3,10 +3,6 @@ A day to day plan for this challenge. Covers both theoritical and practical aspe
 
 ### Contents
 
-Rules
+[Rules](../blob/master/rules.md)
 
-Log - click here to see my progress
-
-FAQ
-
-Resources
+[Log - click here to see my progress](../blob/master/100%20Days%20Of%20Code%20-%20Log.md)
